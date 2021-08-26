@@ -12,6 +12,7 @@ Rating Review : ★★★★★ (5 Stars)
 <img src="assets/2.jpeg" width="250">
 <img src="assets/1.jpeg" width="250">
 
-## Getting Started
+<!-- ## Getting Started
 - Fork or Clone the Repository
 - Give a star if this repository useful
+ -->
