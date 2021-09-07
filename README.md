@@ -1,7 +1,5 @@
 # Mobile apps:  Jobmarket .
 
-Rating Review : ★★★★★ (5 Stars) 
-
 ## Develop
 - Use Flutter and Provider state management.
 
